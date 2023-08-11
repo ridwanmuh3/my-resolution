@@ -2,3 +2,5 @@ MANGWAN Resolutions
 - memiliki creative thinking yangt baik
 - memiliki logical thinking yang baik 
 - memiliki skill public speaking yang baik
+- mastering Javascript
+- mastering UI/UX Design
